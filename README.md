@@ -2,43 +2,28 @@
 
 ## Overview
 
-This repository contains the complete Week 4 red teaming practical assignments and documentation.
+This repository contains Week 4 red teaming practical assignments and documentation.
 
-## Topics Covered
+## Topics
 
-* Advanced Command and Control (C2)
-* Cloud Environment Attacks
+* Advanced C2
+* Cloud Attacks
 * Adversary Emulation
 * Payload Evasion
-* Living-Off-the-Land Techniques
+* Living-Off-the-Land
 * Cloud Privilege Abuse
-* Automated Attack Orchestration
-* Professional Reporting
+* Reporting
 
-## Tools Used
+## Tools
 
 * Kali Linux
 * Metasploit
+* AWS CLI
+* Veil
 * Caldera
 * Pacu
-* AWS CLI
-* PowerShell
 * Wazuh
-* Cobalt Strike (Lab Environment)
-* Veil
-* Proxychains
-
-## Folder Structure
-
-### Week 4
-
-* Notes
-* Screenshots
-* Reports
-* Logs
-* Workflow
-* Tools
 
 ## Disclaimer
 
-This repository is created strictly for educational and authorized lab environments only.
+Educational use only in authorized lab environments.
