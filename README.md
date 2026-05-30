@@ -1,29 +1,29 @@
-# CyArt Red Teaming - Week 4
+# CYART Red Teaming Week 4
 
-## Overview
+## Objective
+Perform adversary emulation and Windows enumeration activities.
 
-This repository contains Week 4 red teaming practical assignments and documentation.
+## Environment
+- Kali Linux
+- Windows 10
+- VirtualBox
 
-## Topics
+## Activities Performed
+- Host Setup
+- Network Configuration
+- Event Viewer Analysis
+- User Enumeration
+- Process Enumeration
+- Network Enumeration
+- Service Enumeration
+- MITRE ATT&CK Mapping
 
-* Advanced C2
-* Cloud Attacks
-* Adversary Emulation
-* Payload Evasion
-* Living-Off-the-Land
-* Cloud Privilege Abuse
-* Reporting
+## Repository Structure
+- Logs
+- Notes
+- Reports
+- Screenshots
+- Workflow
 
-## Tools
-
-* Kali Linux
-* Metasploit
-* AWS CLI
-* Veil
-* Caldera
-* Pacu
-* Wazuh
-
-## Disclaimer
-
-Educational use only in authorized lab environments.
+## Outcome
+Successfully completed Week 4 red teaming lab activities and documented findings.
